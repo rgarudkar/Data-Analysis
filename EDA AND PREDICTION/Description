@@ -1,0 +1,9 @@
+Topic: Indian Summer Weather Analysis - EDA(Exploratory Data Analysis) and Prediction
+
+1. Goal: By using past weather records, assess and forecast Indian summer weather trends.
+2. Dataset: A sizable dataset of historical meteorological data for numerous years and several Indian areas is needed for the project. The Indian Meteorological Department is one source from which the dataset can be downloaded.
+3. Exploratory Data Analysis (EDA): To obtain insights and comprehend the trends, patterns, and correlations within the data, EDA comprises analysing and visualising the data. In order to find trends, patterns, and correlations that can aid in forecasting the summer weather conditions, EDA would be used in this project to analyse historical meteorological data.
+4. Feature Selection: The selection of the most pertinent features or variables that would aid in the prediction of the target variable is a crucial phase in any machine learning project. Temperature, humidity, wind speed, rainfall, and other weather-related factors could all be considered elements in this project.
+5. Model Selection: To choose an appropriate machine learning model that can be trained on past weather data and applied to forecasting summer weather. Linear Regression, Random Forest, and Support Vector Machines are a few of the well-liked models that might be applied to this project.
+6. Model Evaluation: The model must be tested to determine its correctness and performance after having been trained on historical weather data. Several evaluation measures, such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Coefficient of Determination, can be used to accomplish this (R-squared).
+7. Predictions: In the last stage, the trained model is used to forecast the summer weather patterns for the following year. Farmers, legislators, and the general public can all benefit from these forecasts as they plan and get ready for the summer.
