@@ -1,2 +1,2 @@
 # Data-Analysis
-This repository contains project done by me under Coding Ninja Data Analysis Course
+This repository contains project done by me under Coding Ninja Data Analysis Course and Own learning.
